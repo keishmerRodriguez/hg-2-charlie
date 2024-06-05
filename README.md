@@ -23,7 +23,7 @@ PULL_REQUEST_TEMPLATE
 - Feature
 - Changes
 - Hotfix [x]
--Refactor
--Performance
--Testing
+- Refactor
+- Performance
+- Testing
 
